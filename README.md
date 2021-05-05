@@ -1,3 +1,5 @@
+Forked to add metadata to Package.swift for use with Swift Package Manager.
+
 <h1 align=center>
 <img src="logo.png" width=60%>
 </h1>
